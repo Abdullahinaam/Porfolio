@@ -1,0 +1,94 @@
+
+
+.inaam{
+    font-size: 40px;
+}
+
+.para1,.para2, .para3{
+    text-align: center;
+}
+.background{
+    background-image:url("images/R.jpeg") ;
+    background-repeat: no-repeat;
+    background-position: 40%;
+
+}
+
+
+.im{
+    background-image: url("images/i.gif");
+    background-repeat: no-repeat;
+    background-position: 120%;
+    background-size: 60% ;
+}
+.l{
+  
+background-image:url("images/s.png");
+background-repeat: no-repeat;
+background-size:50% ;
+background-position:-10% ;
+text-align:right;
+
+}
+.but{
+color: white;
+text-decoration: none;
+
+}
+.para{
+    padding-left: 150px;
+    
+}
+.font1{
+    font-family:cursive;
+}
+
+.para4{
+
+    text-align: center;
+}
+
+.ss{
+    font-size:20px ;
+}
+.name{
+    color: black;
+    
+
+}
+
+.para5{
+    font-size: 20px;
+}
+.cc:hover{
+    cursor: pointer;
+    
+}
+
+.carousel-nav-icon {
+    height: 48px;
+    width: 48px;
+ }
+
+ .carousel-item .col, .carousel-item .col-sm, .carousel-item .col-md {
+    padding: 2%;
+    margin: 8px;
+    height: 25rem;
+    background-size: cover;
+    background-position: center center;
+ }
+ .cs{
+    padding: 3%;
+    font-size: 20px;
+ }
+
+ .aa{
+    color:rgb(86, 91, 95);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.ca:hover{
+    cursor: pointer;
+    
+}
+
+ 
